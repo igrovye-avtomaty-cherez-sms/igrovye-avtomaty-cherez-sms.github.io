@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-cherez-sms.github.io
+Sitemap: https://igrovye-avtomaty-cherez-sms.github.io/sitemap.xml
